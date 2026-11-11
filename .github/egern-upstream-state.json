@@ -2,7 +2,7 @@
   "schema_version": 1,
   "upstream": "fmz200/wool_scripts",
   "branch": "main",
-  "upstream_commit": "3bf100e5c1e68730a76dbb6d401a5913921db823",
+  "upstream_commit": "009b501adaebb3428461e91c98a17a556249e076",
   "mode": "merge-upstream",
-  "checked_at": "2026-11-10T07:29:45.581Z"
+  "checked_at": "2026-11-11T19:43:12.695Z"
 }
